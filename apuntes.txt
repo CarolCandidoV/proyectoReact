@@ -1,0 +1,14 @@
+Maneras de crear un proyecto react:
+    - Create React App / Vite (Vamos a trabajar con Vite)
+
+React Componentes
+- rcc 
+- rce
+
+EN GITBASH
+
+npm create vite@latest
+
+// Para lanzar un proyecto
+entra en la carpeta (cd primerosPasos)
+npm run dev
